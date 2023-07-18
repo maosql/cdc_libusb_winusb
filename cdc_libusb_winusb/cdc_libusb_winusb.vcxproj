@@ -24,6 +24,7 @@
     <ClInclude Include="src\hal\htc_mp\hal_htc_mp_interior.h" />
     <ClInclude Include="src\hal\libusb\hal_libusb.h" />
     <ClInclude Include="src\hal\serial\hal_serial.h" />
+    <ClInclude Include="src\hal\winusb\hal_win_usb.h" />
     <ClInclude Include="src\hal\zip\hal_zip.h" />
     <ClInclude Include="src\lib\cJSON\cJSON.h" />
   </ItemGroup>
@@ -33,6 +34,7 @@
     <ClCompile Include="src\hal\htc_mp\hal_htc_mp.cpp" />
     <ClCompile Include="src\hal\libusb\hal_libusb.cpp" />
     <ClCompile Include="src\hal\serial\hal_serial.cpp" />
+    <ClCompile Include="src\hal\winusb\hal_win_usb.cpp" />
     <ClCompile Include="src\hal\zip\hal_zip.cpp" />
     <ClCompile Include="src\lib\cJSON\cJSON.cpp" />
   </ItemGroup>
