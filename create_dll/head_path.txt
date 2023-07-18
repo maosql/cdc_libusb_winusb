@@ -1,0 +1,2 @@
+Path：cdc_libusb_winusb\src\hal\htc_mp\ 
+file：hal_htc_mp.h
